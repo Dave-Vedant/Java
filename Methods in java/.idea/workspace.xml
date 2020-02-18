@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5a91f82-64e8-49e0-bf4a-d4ec29d63153" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XAAkM90h1iw16lDiCh21n9RU5f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$USER_HOME$/Downloads/Source code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Using DiffMerge/java-masterclass-28-insert-after-method-challenge/src/com/timbuchalka" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Source code - Java Tutorial Expressions, Statements, Code blocks, Methods and more - Using DiffMerge/java-masterclass-28-insert-after-method-challenge/src/com/timbuchalka" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timbuchalka.Main" />
+      <module name="Methods in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.timbuchalka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="vedant.learningPhase.Main" />
+      <module name="Methods in java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5a91f82-64e8-49e0-bf4a-d4ec29d63153" name="Default Changelist" comment="" />
+      <created>1580478666527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580478666527</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580537693600">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="95" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.688@0.0.1280.688" timestamp="1580537693600" />
+    <state x="421" y="89" key="FileChooserDialogImpl" timestamp="1580537943098">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="421" y="89" key="FileChooserDialogImpl/0.0.1280.688@0.0.1280.688" timestamp="1580537943098" />
+    <state width="1283" height="253" key="GridCell.Tab.0.bottom" timestamp="1580565040721">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1283" height="253" key="GridCell.Tab.0.bottom/0.0.1280.688@0.0.1280.688" timestamp="1580565040721" />
+    <state width="1283" height="253" key="GridCell.Tab.0.center" timestamp="1580565040721">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1283" height="253" key="GridCell.Tab.0.center/0.0.1280.688@0.0.1280.688" timestamp="1580565040721" />
+    <state width="1283" height="253" key="GridCell.Tab.0.left" timestamp="1580565040721">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1283" height="253" key="GridCell.Tab.0.left/0.0.1280.688@0.0.1280.688" timestamp="1580565040721" />
+    <state width="1283" height="253" key="GridCell.Tab.0.right" timestamp="1580565040721">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1283" height="253" key="GridCell.Tab.0.right/0.0.1280.688@0.0.1280.688" timestamp="1580565040721" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1580537981558">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.688@0.0.1280.688" timestamp="1580537981558" />
+    <state x="451" y="126" key="chooseDestDirectoryDialog" timestamp="1580538001775">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="451" y="126" key="chooseDestDirectoryDialog/0.0.1280.688@0.0.1280.688" timestamp="1580538001775" />
+    <state x="349" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1580563155576">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="349" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.688@0.0.1280.688" timestamp="1580563155576" />
+    <state x="91" y="0" key="new project wizard" timestamp="1580563385602">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.688@0.0.1280.688" timestamp="1580563385602" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Methods_in_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1580537207045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
