@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7839e892-fb74-41ca-93d9-9d9794267af2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YQbBZHrihNgmV8Np0g0717gDd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="vedant.learningPhase.Main" />
+      <module name="ObjectOrientedProgrammingPolymorphism" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7839e892-fb74-41ca-93d9-9d9794267af2" name="Default Changelist" comment="" />
+      <created>1582877630345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582877630345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1582907598190">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="446" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1280.688@0.0.1280.688" timestamp="1582907598190" />
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom" timestamp="1582908508226">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.688@0.0.1280.688" timestamp="1582908508226" />
+    <state width="1237" height="160" key="GridCell.Tab.0.center" timestamp="1582908508226">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.688@0.0.1280.688" timestamp="1582908508226" />
+    <state width="1237" height="160" key="GridCell.Tab.0.left" timestamp="1582908508226">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.688@0.0.1280.688" timestamp="1582908508226" />
+    <state width="1237" height="160" key="GridCell.Tab.0.right" timestamp="1582908508226">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.688@0.0.1280.688" timestamp="1582908508226" />
+    <state x="303" y="9" key="search.everywhere.popup" timestamp="1582907128378">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="303" y="9" key="search.everywhere.popup/0.0.1280.688@0.0.1280.688" timestamp="1582907128378" />
+  </component>
+</project>
